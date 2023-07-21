@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+
+.navbar-brand{
+  font-size: 1.4rem ;
+  position: relative;
+  left: 6rem;
+  font-weight: bold;
+}
+.board {
+  background: linear-gradient(0deg, black, #444444);
+ border: 3px solid grey;
+}
