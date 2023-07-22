@@ -1,8 +1,12 @@
 
 
+
 body {
   text-align: center;
-
+  background-image: url(../src/component/carl-raw-m3hn2Kn5Bns-unsplash.jpg);
+  background-repeat: cover;
+ 
+  
 }
 
 .navbar-brand{
@@ -10,7 +14,12 @@ body {
   position: relative;
   left: 6rem;
   font-weight: bold;
+  color: aqua;
 }
+.navbar-brand:hover{
+  color: aqua;
+}
+
 .board {
   background: linear-gradient(0deg, black, #444444);
  border: 3px solid grey;
